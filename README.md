@@ -158,3 +158,4 @@ El dataset está desbalanceado (92% pagan, 8% no pagan). Se aplicó:
 
 
 # Puede ocurrir un error el ejecutar los archivos py, hay que ejecutarlo 2 veces más, para que funcionen correctamente.
+# Se tiene que crear una carpeta llamada data y una sub carpeta llamada parquet para subir los archivos
