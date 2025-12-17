@@ -7,7 +7,7 @@
 
 ## Descripción
 
-El proyecto predice si un solicitante va a pagar o no su préstamo bancario. Se va a trabajar con 8 tablas diferentes que incluyen información de clientes, historial crediticio, pagos anteriores, datos de buró, etc.El dataset principal tiene 307,511 registros con 122 columnas. La estructura del proyecto sigue la metodología CRISP-DM organizada en carpetas de 01 a 05.
+El proyecto predice si un solicitante va a pagar o no su préstamo bancario. Se utiliza el dataset principal de Home Credit con 307,511 registros y 122 columnas. La estructura del proyecto sigue la metodología CRISP-DM organizada en carpetas de 01 a 05.
 
 ## Estructura del Proyecto
 
