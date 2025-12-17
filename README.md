@@ -22,11 +22,12 @@ requirements.txt          - Dependencias del proyecto
 
 ## Instalación
 
-1. Instalar dependencias:
-
+python -m venv .venv
+.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 
-2. Descargar los datos de Kaggle y colocarlos en `data/parquet/`
+
+Descargar los datos de Kaggle y colocarlos en `data/parquet/`
 
 ## Uso
 
